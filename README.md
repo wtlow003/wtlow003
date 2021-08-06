@@ -19,7 +19,7 @@ I'm a Data Science Intern working at Yara International, Singapore. Outside of w
 
 - 🔭 I’m currently working on my honours thesis, building a super awesome review-based recommender systems. 
 - 💻 I'm self-proclaimed proficient at `python` and `sql`, while taking baby-steps in learning `javascript`.
-- 🌱 I’m currently learning MLOps principles and learning how to beter design ML projects with production in mind.
+- 🌱 I’m currently learning MLOps principles and learning how to better design ML projects with production in mind.
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
