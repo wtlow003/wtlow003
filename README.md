@@ -3,8 +3,8 @@ Hello there! 👋 I am Jensen! 🙋🏽‍♂️
 </h1>
 
 <p align="center">
-      A Data Science intern @ Yara Digital Labs, Singapore.
-      <br>Also, I am final year Business Analytics student at SUSS.
+      Currently, a Data Science intern @ Yara Digital Labs, Singapore.
+      <br>Also, I am a final year Business Analytics student at SUSS.
 </p>
 
 <!--
