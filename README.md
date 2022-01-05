@@ -3,7 +3,7 @@ Hello there! 👋 I am Jensen! 🙋🏽‍♂️
 </h1>
 
 <p align="center">
-      Currently, a Data Science intern @ Yara Digital Labs, Singapore.
+      Currently, an AI Engineering intern @ SAP, Singapore.
       <br>Also, I am a final year Business Analytics student at SUSS.
 </p>
 
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I've recently completed my honours thesis, building a super awesome review-based recommender systems.
-- 💻 I'm self-proclaimed proficient at `python` and `sql`, while taking baby-steps in learning `javascript`.
-- 🌱 I’m currently learning MLOps principles and how to better design ML projects with production in mind.
+- 🔭 I've completed my honours thesis, developing a review-based recommender systems.
+- 💻 I'm self-proclaimed proficient at `python` and `sql`, while taking baby-steps in picking relevant `engineering` skills.
+- 🌱 I’m currently learning Apache Airflow and how to better design ML projects with production in mind.
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
