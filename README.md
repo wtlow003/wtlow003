@@ -3,8 +3,7 @@ Hello there! 👋 I am Jensen! 🙋🏽‍♂️
 </h1>
 
 <p align="center">
-      Currently, an AI Engineering intern @ SAP, Singapore.
-      <br>Also, I am a final year Business Analytics student at SUSS.
+      Currently, a Machine Learning Engineer @ SAP, Singapore.
 </p>
 
 <!--
