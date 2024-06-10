@@ -12,5 +12,5 @@ Hello there! 👋 I am Jensen! 🙋🏽‍♂️
 <br/>
 
 <p align="center">
-      Currently, a GenAI Platform Engineer @ SAP, Singapore.
+Currently, a GenAI Platform Engineer @ SAP, Singapore.
 </p>
